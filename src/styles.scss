@@ -1,0 +1,8 @@
+@import "../src/scss/lib/_variables";
+@import "../src/scss/class.scss";
+body{
+    background-color: $color-secundary;
+    h1{        
+        color: white;
+    }
+}
